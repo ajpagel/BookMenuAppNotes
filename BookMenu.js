@@ -12,7 +12,7 @@ class Book {
 
 class Menu {
     constructor() {
-        this.books[];
+        this.books = [];
     }
 
     mainMenu () {
